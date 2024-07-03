@@ -1,0 +1,6 @@
+Você rodar o artisan e o dev juntos, se nao vai quebrar.
+
+php artisan serve
+npm install
+npm run dev
+npm run build
