@@ -17,7 +17,6 @@ Este é um projeto de e-commerce desenvolvido com o framework Laravel. O projeto
 Clone este repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/ecommerce-laravel.git
 cd ecommerce-laravel
 
 composer install
