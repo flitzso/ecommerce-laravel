@@ -1,5 +1,7 @@
 # Ecommerce em Laravel #
 
+### https://github.com/flitzso/ecommerce-react (Frontend) ###
+
 Este é um projeto de e-commerce desenvolvido com o framework Laravel. O projeto inclui funcionalidades básicas de um e-commerce, como listagem e exibição de produtos, busca de produtos, login e registro de clientes, gerenciamento de carrinho de compras e um painel administrativo para gerenciamento de produtos e clientes.
 
 ## Requisitos
